@@ -31,11 +31,12 @@ We have attempted to make WSCE as cross-compatible with different os's as possib
 
   
 # How to create commands
-On WSCE, Thanks to CommandSearch and pythone, making commands have never been easier, just follow this simple step by step guide!
+On WSCE, Thanks to CommandSearch and python, making commands have never been easier, just follow this simple step by step guide!
 
 ## 1.) Navigate to WSCE/WSCEMAIN/COM
 
 These are where the WSCE Commands are stored.
+
 ![image](https://github.com/user-attachments/assets/b93e8539-dc3f-4b5a-bdb3-f8696f263369)
 
 
