@@ -25,8 +25,6 @@ We have attempted to make WSCE as cross-compatible with different os's as possib
 
 ![image](https://github.com/user-attachments/assets/dadbc2c9-8086-48ee-94c9-1a3dbb302ad4)
 ![image](https://github.com/user-attachments/assets/f5b9a45a-c4aa-4fe0-a48f-628466ac3965)
-
-#### Disclaimer: It seems to only partially work on some linux distros, repit failed to work, wsl does work, boot animation will be editied later to work on linux
    
 
   
