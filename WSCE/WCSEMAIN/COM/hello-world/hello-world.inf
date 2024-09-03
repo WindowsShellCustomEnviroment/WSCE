@@ -1,0 +1,3 @@
+[WSCE]
+commandname=helloworld
+commanddesc=Displays hello world text to test the output of commands
