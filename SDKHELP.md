@@ -41,7 +41,7 @@ And that's all the information WSCE needs, now let's make the actual python code
 
 WSCE uses regular python, there is nothing special to it, meaning anything that can be coded in python can be coded in WSCE
 
-First of all, an important note before you get dstarted, the .py file **NEEDS TO HAVE THE SAME NAME AS THE .inf FILE**
+First of all, an important note before you get started, the .py file **NEEDS TO HAVE THE SAME NAME AS THE .inf FILE**
 
 Now for the code? Nothing is required, just ensure it's linux and windows compatible so that all users can run the command, if there is no way to make it cross-compatible, that's fine, just list in your command description what OS'es your command is compatible with
 
@@ -52,5 +52,4 @@ Now for the code? Nothing is required, just ensure it's linux and windows compat
 Want to contribute to the WSCE Project even more? Point out issues or fix bugs in the code to make WSCE a bug-free project Or even better, DM Suggestions to me at orion_0r10n to make WSCE An even better project
 
 
-- Orion 04/09/2024
-Thank you for contributing to the WSCE Community and making it better for everyone
+Orion 04/09/2024
