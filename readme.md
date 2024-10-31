@@ -1,6 +1,9 @@
 # WSCE (Windows Shell Custom Enviroment)
 WSCE is a new way to relive the good old CLI days without getting rid of your current OS!
 
+# Warning!
+WSCE Will soon be retired in favour of project crusoe
+
 # Requirments:
 - Python 3.x (Preferably 3.12.x or 3.11.9)
 - Colorama
